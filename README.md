@@ -1,3 +1,12 @@
+💁topic
+- my mood playlist
+
+🤺구현기능
+1. 🧡버튼 누르면 숫자 올라가게 하기
+2. nav bar
+3. 칸 나누기..
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
